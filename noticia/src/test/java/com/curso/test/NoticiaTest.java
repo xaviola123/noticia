@@ -35,5 +35,6 @@ public class NoticiaTest {
 	public void entityManagerTest() {
 		assertNotNull(em);
 	}
+	
 
 }
